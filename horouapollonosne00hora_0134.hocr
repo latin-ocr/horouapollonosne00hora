@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./horouapollonosne00hora_0134.png"; bbox 0 0 1534 2459; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 288 134 356 169">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 288 134 356 169">
+     <span class='ocr_line' id='line_1_1' title="bbox 288 134 356 169; baseline -0.015 0"><span class='ocrx_word' id='word_1_1' title='bbox 288 134 356 169; x_wconf 80' lang='lat'><strong>110</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 446 119 1312 1040">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 446 119 1312 1040">
+     <span class='ocr_line' id='line_1_2' title="bbox 446 119 1312 1040; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 446 119 1312 1040; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 360 1154 1345 1306">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 360 1154 1345 1306">
+     <span class='ocr_line' id='line_1_3' title="bbox 642 1154 1045 1221; baseline 0.002 -15"><span class='ocrx_word' id='word_1_3' title='bbox 642 1154 737 1210; x_wconf 69' lang='lat' dir='ltr'><strong>11ch</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 751 1155 1045 1221; x_wconf 62' lang='grc' dir='ltr'>ἂναμὲξωσῳ·</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 360 1233 1345 1306; baseline 0.011 -22"><span class='ocrx_word' id='word_1_5' title='bbox 360 1233 599 1301; x_wconf 71' lang='grc' dir='ltr'><strong>Λ”νθρῶπὀυ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 615 1236 1121 1304; x_wconf 60' lang='grc' dir='ltr'><strong>ὣὶκπνλος,ἀναμὲξ’κσῳ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1132 1239 1345 1306; x_wconf 67' lang='grc' dir='ltr'><em>σημαίνει.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 402 1392 1282 1545">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 402 1392 1282 1545">
+     <span class='ocr_line' id='line_1_5' title="bbox 528 1392 1152 1459; baseline 0.006 -17"><span class='ocrx_word' id='word_1_8' title='bbox 528 1399 644 1459; x_wconf 84' lang='lat' dir='ltr'><strong>Qo</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 666 1398 806 1443; x_wconf 90' lang='lat' dir='ltr'>modo</span> <span class='ocrx_word' id='word_1_10' title='bbox 822 1392 1152 1446; x_wconf 82' lang='lat' dir='ltr'><strong>dimensionem.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 402 1482 1282 1545; baseline 0.01 -17"><span class='ocrx_word' id='word_1_11' title='bbox 402 1486 614 1528; x_wconf 80' lang='lat' dir='ltr'><strong>Hominis</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 628 1485 791 1545; x_wconf 77' lang='lat' dir='ltr'>digitus</span> <span class='ocrx_word' id='word_1_13' title='bbox 812 1485 954 1531; x_wconf 81' lang='lat' dir='ltr'>dimen</span> <span class='ocrx_word' id='word_1_14' title='bbox 964 1482 1127 1536; x_wconf 83' lang='lat' dir='ltr'>fionem</span> <span class='ocrx_word' id='word_1_15' title='bbox 1142 1504 1282 1537; x_wconf 67' lang='lat' dir='ltr'><strong>notat·</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
